@@ -1,6 +1,6 @@
 # vpn_app
 
-A new Flutter project.
+VPN app demo.
 
 ## Getting Started
 
